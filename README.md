@@ -2,7 +2,7 @@
 Guide for UIC MAD Students
 
 ### Demo
-Click <a href="https://github.com/clydeatuic/CloudDatabase/blob/master/CloudDatabase.apk">here</a>
+Click <a href="https://goo.gl/sSwLPx">here</a>
 to download released version of CloudDatabase.apk
 <br/>
 <br/>
