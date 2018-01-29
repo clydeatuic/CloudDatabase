@@ -1,6 +1,8 @@
 # CloudDatabase
 Guide for UIC MAD Students
 
+### Demo
+<a href="https://github.com/clydeatuic/CloudDatabase/blob/master/CloudDatabase.apk">CloudDatabase.apk (release version)</a><br/>
 <img src="https://github.com/clydeatuic/CloudDatabase/blob/master/clouddb_preview.gif" />
 
 <hr/>
